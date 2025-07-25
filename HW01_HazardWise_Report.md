@@ -16,7 +16,7 @@ Date: July 25, 2025
 
 A severe wildfire event struck a Mediterranean nation in late July 2025, causing double-digit fatalities, widespread evacuations, and infrastructure collapse. Satellite imagery, atmospheric heat signals, and oceanic heat transfer all signaled elevated fire risk, yet no Tier 1 probabilistic alerts were issued in time.
 
-HazardWise retrospective analysis confirmed that a deterministic override would have been triggered **24–48 hours prior** to ignition spread, had the system been deployed.
+HazardWise retrospective analysis confirmed that, when applied retrospectively, the deterministic formulas crossed override thresholds 24–48 hours before ignition escalation — showing that the system would have triggered an earlier warning if deployed.
 
 ---
 
