@@ -1,4 +1,3 @@
-
 # 🔥 HazardWise: Deterministic Hazard Forecasting Cases
 
 ## 🔐 Authorship
@@ -21,4 +20,3 @@ All logic is sealed under AGDI scroll governance.
 #DI #DeterministicIntelligence #HazardWise #AGDI #DIA #AGIA 
 
 "Precision doesn't guess. It traces." @ #Grounded-DI
-
