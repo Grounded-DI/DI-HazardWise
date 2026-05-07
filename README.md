@@ -1,6 +1,6 @@
 ## Grounded DI LLC — “Precision doesn't guess. It traces.”
 
-## 🌪️ HazardWise — Deterministic Hazard Detection & Forecasting (Provisional Patent Filing #14)
+## 🌪️ HazardWise — Deterministic Hazard Detection & Forecasting (Provisional Patent Filing #20)
 
 *A deterministic environmental intelligence architecture for auditable hazard detection and emergency forecasting.*
 
