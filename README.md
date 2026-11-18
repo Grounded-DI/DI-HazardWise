@@ -1,6 +1,6 @@
 # HazardWise
 
-HazardWise is a Grounded DI LLC control pattern for organizing multi-domain hazard analysis as an evidence-bound state transition:
+HazardWise organizes hazard analysis into a documented control loop that connects observations, decisions, actions, and follow-up checks:
 
 ```text
 Observe → Bind → Quantify → Prescribe → Execute → Verify → Close or Reopen
@@ -12,15 +12,13 @@ Published by **Grounded DI LLC** · Creator / operator identified in the record:
 
 This repository is a public technical-evidence and prototype archive for HazardWise. The `main` branch contains design blueprints, analytical reports, replay-labeled artifacts, fire and seismic records, environmental/compliance demonstrations, and visual materials.
 
-The current tree contains **30 tracked files**: 3 Markdown files, 17 PDFs, 8 images, and 2 extensionless text records. It is a record of work and demonstrations, not a runnable HazardWise engine, installer, SDK, or complete source release. No dependency manifest, test harness, or deployment package is included.
-
-In this README, *deterministic* means rule-governed or threshold-defined processing under stated inputs and conditions. It does not mean that every forecast is universally correct or that an artifact is independently validated.
+The public archive contains design records, case reports, demonstrations, and visual evidence. The full runtime and sealed audit materials are held separately. Here, *deterministic* describes rules and thresholds applied to stated inputs.
 
 ## Why It Matters
 
 Many hazard workflows stop at detection or forecast. HazardWise frames the operational problem as a closed loop: identify the condition, bind it to an asset or control point, quantify the exposure or consequence, route a bounded action, preserve evidence that the action occurred, and verify the post-control state before closing or reopening the case.
 
-That structure gives technical and commercial reviewers a concrete way to inspect control logic, escalation boundaries, replay labels, provenance, and evidence handling before requesting access to private implementations or a scoped proof of concept.
+Reviewers can inspect the documented control logic, escalation boundaries, replay labels, provenance, and evidence handling, then request the private implementation and supporting audit materials for a controlled technical evaluation.
 
 ## Core Architecture
 
@@ -34,7 +32,7 @@ The public design record describes seven stages:
 6. **Verify** — measure the post-control condition against the predeclared criterion.
 7. **Close or reopen** — record closure, residual risk, or another required control cycle.
 
-The design also defines an admission gate. A condition enters the primary closed-loop workflow only when the record supports an observable state, a practical control point, a quantifiable basis, a bounded action, execution evidence, and an observable post-control condition. The repository presents this as architecture and design intent; it does not contain a complete implementation of the loop.
+The admission gate requires an observable state, a practical control point, a quantifiable basis, a bounded action, execution evidence, and a measurable post-control condition. The public design explains these requirements. Runtime enforcement requires inspection of the private implementation.
 
 ## Key Records
 
@@ -152,7 +150,7 @@ The repository supports an evidence-led evaluation of the HazardWise control pat
 
 - inspect the public case records and status labels;
 - evaluate how conditions, thresholds, control points, actions, and closure evidence are represented;
-- define a scoped proof of concept using synthetic or historical cases and an agreed domain owner;
+- define a controlled technical evaluation using agreed cases, evidence sources, and a domain owner;
 - request access to private formula implementations, runtime packages, or audit material where appropriate; and
 - assess integration into environmental/compliance review, asset-risk triage, operational-loss workflows, or audit-ready evidence packages.
 
